@@ -1,0 +1,42 @@
+.flex-conteiner, li {
+    display:inline-block;
+    margin-left:10px;
+    margin-right: 20px;
+    margin-top: 80px;
+
+}
+
+.word {
+list-style-type: none;
+padding: 10px;
+background-color:rgb(248 253 254 / 88%);
+}
+
+.text {
+font-size: 45px;
+padding-bottom: 20px;
+color:rgb(8, 8, 8);
+text-align:center; 
+}
+
+
+p {
+font-weight:bold;
+text-align: center;
+color: #0a0a0a;
+}
+
+
+.flex{
+font-size: 20px;
+display:flex;
+text-align: center;
+color:black;
+}
+
+
+
+a {
+    color: rgb(128, 0, 255);
+  font-weight:bold;
+}
